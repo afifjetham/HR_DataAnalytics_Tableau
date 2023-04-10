@@ -1,1 +1,1 @@
-https://public.tableau.com/app/profile/afif.jetham/viz/HRDataAnalyticsProject/HRDataAnalytics?publish=yes
+https://public.tableau.com/views/HRAnalyticsProject_16809844819180/HRAnalytics?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
